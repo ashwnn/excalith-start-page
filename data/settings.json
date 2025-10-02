@@ -147,9 +147,14 @@
 						"icon": "mdi:book-open-page-variant"
 					},
 					{
-						"name": "Spacebin",
-						"url": "https://bin.bepo.ca",
-						"icon": "mdi:note-text"
+						"name": "Reverse Proxy",
+						"url": "https://proxy.bepo.ca",
+						"icon": "mdi:network"
+					},
+					{
+						"name": "Wireguard Web",
+						"url": "https://wg.bepo.ca",
+						"icon": "mdi:shield-lock"
 					}
 				]
 			},
@@ -172,6 +177,11 @@
 						"name": "ntfy",
 						"url": "https://ntfy.bepo.ca",
 						"icon": "mdi:bell"
+					},
+					{
+						"name": "Uptime Kuma",
+						"url": "https://status.bepo.ca",
+						"icon": "mdi:heart-pulse"
 					}
 				]
 			},
@@ -194,7 +204,17 @@
 						"name": "Hoarder",
 						"url": "https://bookmarks.bepo.ca",
 						"icon": "mdi:bookmark"
-					}
+					},
+					{
+						"name": "CDN",
+						"url": "https://cdn.bepo.ca",
+						"icon": "mdi:cloud-upload"
+					},
+					{
+						"name": "Spacebin",
+						"url": "https://bin.bepo.ca",
+						"icon": "mdi:note-text"
+					},
 				]
 			},
 			{
